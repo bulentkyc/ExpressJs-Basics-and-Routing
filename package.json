@@ -1,0 +1,14 @@
+{
+  "name": "Express-Basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bulent",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
